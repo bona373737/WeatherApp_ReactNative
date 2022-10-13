@@ -1,11 +1,15 @@
 # ReactNative 날씨앱 만들기 
-- https://reactnative.dev/
-- https://docs.expo.dev/versions/latest/
-
-- 위치 Expo Location 
-## Component
-- ScrollView
-
-## APIs
+OpenWeatherAPI 활용 날씨앱만들기 
+```
+https://api.openweathermap.org/data/2.5/onecall?lat={latitude}&lon={longitude}&exclude=alerts&appid={API_KEY}
+```
+## React Native Packages
+https://reactnative.dev/
+- ActivityIndicator
+- ScrollView 
 - Dimensions : 화면크기
-- Location : 사용자 위치 조회git
+
+## Third Party Packages 
+https://docs.expo.dev/versions/latest/
+- expo-location
+- expo-status-bar
