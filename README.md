@@ -1,7 +1,7 @@
 # ReactNative 날씨앱 만들기 
 OpenWeatherAPI 활용 주간날씨정보를 보여주는 날씨앱   
-<img src="../assets/weather1.jpg" width="100px">
-<img src="../assets/weather2.jpg" width="100px">
+<img src="./assets/weather1.jpg" width="100px">
+<img src="./assets/weather2.jpg" width="100px">
 
 ### OpenWeatherApi URL
 ```
