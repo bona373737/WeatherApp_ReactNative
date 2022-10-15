@@ -3,8 +3,7 @@
 디자인 참고>>https://dribbble.com/shots/14717133-Weather-App-Concept   
 OpenWeatherAPI 활용 주간날씨정보를 보여주는 날씨앱   
 
-<img src="./assets/weather1.jpg" width="100px">
-<img src="./assets/weather2.jpg" width="100px">
+<img src="./assets/weather1.jpg" width="100px"> <img src="./assets/weather2.jpg" width="100px">
 
 ## 주요 학습내용
 - 화면출력을 위한 태그들이 React.js와의 다른부분을 확인할 수 있었다.    
