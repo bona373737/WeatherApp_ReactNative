@@ -1,5 +1,5 @@
 # ReactNative 날씨앱 만들기 
-나의 첫번째 ReactNative앱 만들기 시작!
+나의 첫번째 ReactNative앱 만들기 시작!   
 디자인 참고>>https://dribbble.com/shots/14717133-Weather-App-Concept   
 OpenWeatherAPI 활용 주간날씨정보를 보여주는 날씨앱   
 
