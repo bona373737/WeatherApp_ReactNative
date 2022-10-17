@@ -1,7 +1,8 @@
 # ReactNative 날씨앱 만들기 
-나의 첫번째 ReactNative앱 만들기 시작!   
-디자인 참고>>https://dribbble.com/shots/14717133-Weather-App-Concept   
-OpenWeatherAPI 활용 주간날씨정보를 보여주는 날씨앱   
+- 나의 첫번째 ReactNative앱 만들기 시작!   
+- 이번 프로젝트에서는 Expo CLI를 사용하여 초기셋업작업을 간소화 하고, ReactNative를 빠르게 경험해 보는 것에 초점을 두었다.    
+- 디자인 참고 https://dribbble.com/shots/14717133-Weather-App-Concept   
+- OpenWeatherAPI 활용 주간날씨정보를 보여주는 날씨앱    
 
 <img src="./assets/weather1.jpg" width="100px"> <img src="./assets/weather2.jpg" width="100px">
 
